@@ -1,2 +1,2 @@
 # SEMPER-PARATUS
-mi proyecto SENA - Tecnólogo en análisis y Desarrollo de Software
+Mi proyecto SENA - Tecnólogo en análisis y Desarrollo de Software
